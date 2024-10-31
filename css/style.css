@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-style: none;
+}
+.home_navbar{
+    top:0;
+    width: 100%;
+    position: fixed;
+    
+}
+.home_navbar_item
+{
+    display: flex;
+    flex-direction: row;
+
+}
